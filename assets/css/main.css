@@ -1,0 +1,128 @@
+body{
+    font-size: 13px;
+}
+
+.cont-fluid{
+background-color: blue;
+background:linear-gradient(to bottom left, blue 50%, white 50%); 
+
+}
+
+
+.logo{
+    float: left;
+    margin-left:35px;
+}
+
+.fylo-nav{
+    width: 100%;
+    margin-top: 20px;
+    position: relative;
+}
+
+.nav{
+    float: right;
+    list-style: none;
+    text-align: left;
+    margin: 0;
+    margin-right: 30px; 
+}
+
+.nav li {
+    display: inline-block;
+    padding: 0px 25px 7px 9px;
+}
+
+.nav li a {
+    text-decoration: none; 
+    color: black;
+    font-size: 14px;
+}
+
+
+.nav li a:hover{
+    color: purple;
+}
+
+.free-btn{
+    border-radius: 5px;
+    padding: 4px 26px;
+    font-size: 13px;
+    border: 1px solid #1affff;
+    background-color: #1affff;
+ }
+
+ #move{
+     margin-top: 6px;
+ }
+
+.ill-get{
+    margin-top: 35px;
+}
+
+.get-started{
+    float:left;
+    margin-top: 120px;
+    padding-left: 60px;
+}
+
+h1{
+    font-size: 40px;
+}
+
+.get-illustrate{
+    float: right;
+    padding-left: 160px;
+    margin-top: 20px;
+}
+
+.free-btnn{
+    border-radius: 5px;
+    padding: 8px 65px;
+    margin-top: 15px;
+    font-size: 15px;
+    font-weight: bold;
+    border: 1px solid #1affff;
+    background-color: #1affff;
+ }
+
+ .fylo-plat{
+    
+ }
+
+ h2{
+     margin-top: 70px;
+    font-size: 28px;
+    text-align: center;
+    color: rgb(3, 3, 94);
+ }
+
+ .all{
+     margin-top: 80px;
+ }
+
+ h4{
+     font-size: 23px;
+     color: rgb(3, 3, 94);
+ }
+
+ p{
+     margin-top: 15px;
+     font-size: 12px;
+  
+ }
+
+ .platform{
+     padding-left: 60px;
+    padding-bottom: 30px;
+ }
+
+ .ill-image{
+    padding-left: 40px;
+ }
+
+ .security{
+     margin-top: 40px;
+ }
+
+ 
