@@ -1,0 +1,68 @@
+@media only screen 
+  and (min-width: 300px) 
+  and (max-width: 667px) {
+      
+    body{
+        font-size: 9px;
+        background-color: rgb(33, 1, 75);
+            }
+        
+        .get-started {
+            margin-top: 18px;
+        }
+        
+        h1{
+            font-size: 32px;
+            color: azure;}
+
+            .free-btnn{
+                border-radius: 5px;
+                padding: 4px 20px;
+                font-size: 13px;
+                border: 1px solid #1affff;
+                background-color: #1affff;
+             }
+
+             .ill-image{
+             width: 80%;
+             margin-right: 30px;
+             }
+
+           h2{
+               font-size: 28px;
+           }
+
+           .all{
+               margin-top: 18px;
+           }
+      .platform{
+          margin-top: 25px;
+          width: 40%;
+      }
+ 
+      p{
+          font-size: 15px;
+      }
+
+      .get-access p{ 
+          padding: 10px;
+          font-size: 15px;   
+      }
+      
+      form input {
+          margin-top: 10px;
+        padding: 8px 75px;
+        border-radius: 5px;
+        }
+
+        .form-btn{ 
+            margin-top: 10px;
+            margin-left: 30px;
+            border-radius: 5px;
+            padding: 4px 70px;
+            font-size: 15px;
+            border: 1px solid #1affff;
+            background-color: #1affff;
+            color: azure;
+         }
+    }
